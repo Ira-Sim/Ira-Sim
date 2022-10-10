@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello! 👋
 
-<!--
-**Ira-Sim/Ira-Sim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ About me in 30 seconds ✨ 
 
-Here are some ideas to get you started:
+I am a PhD student interested in empirical research using traditional econometric approach and machine learning. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Core competencies 💡
+- Tools: 
+  - Skills:
+    * Data analisys, causal analysis, ML algorithms
+    * Python, R, Stata, Git, PostgreSQL, tex
+
+### ⚡️ Currently ⚡️
+
