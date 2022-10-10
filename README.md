@@ -10,5 +10,3 @@ I am a PhD student interested in empirical research using traditional econometri
     * Data analysis, causal analysis, ML algorithms
     * Python, R, Stata, Git, PostgreSQL, tex
 
-### ⚡️ Currently ⚡️
-
