@@ -7,7 +7,7 @@ I am a PhD student interested in empirical research using traditional econometri
 ### 💡 Core competencies 💡
 - Tools: 
   - Skills:
-    * Data analisys, causal analysis, ML algorithms
+    * Data analysis, causal analysis, ML algorithms
     * Python, R, Stata, Git, PostgreSQL, tex
 
 ### ⚡️ Currently ⚡️
